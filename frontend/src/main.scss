@@ -1,0 +1,17 @@
+$text-center: center;
+
+h2,
+h3 {
+	text-align: $text-center;
+}
+h2 {
+	font-size: 20px;
+}
+
+* {
+	margin: 4px;
+}
+
+Button {
+	color: red;
+}
